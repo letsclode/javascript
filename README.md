@@ -1,0 +1,1 @@
+This is my javascript journey Aug 13 ,2019
